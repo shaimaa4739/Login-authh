@@ -1,0 +1,25 @@
+.container-fliud{
+    background-color: orange;
+    width: 100vw;
+    height: 100vh;
+}
+
+.card{
+    width: fit-content !important;
+    box-shadow: 0px 7px 24px rgb(203, 203, 203);
+}
+
+.input-style{
+    width: 300px ;
+    border: 1px solid whitesmoke; 
+    border-radius: 5px;
+    padding: 10px 7px;
+}
+
+.btn-w{
+    width: 300px;
+}
+
+.text-start{
+    text-align: start;
+}
